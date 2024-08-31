@@ -1,4 +1,4 @@
-Brainrot Translator
+Brainrot Translator<br>
 Public Release Version 1.0
 August 31, 2024
 A program by Logan Hanson
